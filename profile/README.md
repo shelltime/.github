@@ -44,14 +44,14 @@ ShellTime is a developer analytics platform built on three pillars: shell comman
 ## Access Your Data
 
 - **Website**: [shelltime.xyz](https://shelltime.xyz)
-- **iOS App**: Available on the App Store
+- **iOS App**: [ShellTime iOS](https://apps.apple.com/us/app/shelltime-xyz/id6757661383)
 
 ## Quick Start
 
 ```bash
-curl -fsSL https://shelltime.xyz/install.sh | sh
+curl -fsSL https://shelltime.xyz/i | sh
+source ~/.zshr # ~/.bashrc or ~/.config/fish/config.fish
 shelltime init
-shelltime hooks install
 ```
 
 ## Privacy
